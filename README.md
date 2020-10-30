@@ -11,5 +11,5 @@ npm run serve
 ```
 
 ### Watch on
-```
-https://alanrin.github.io/todo-vue-test/
+
+https://alanrin.github.io/todo-vue/
